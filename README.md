@@ -1,2 +1,3 @@
-# Flipbase
-Flipbase Gatsby Pages Slider
+# Flipbase Gatsby Slider
+Flipbase Gatsby Slider project
+
