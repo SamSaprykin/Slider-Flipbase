@@ -30,7 +30,6 @@ const Index: React.FunctionComponent<IndexProps> = ({
   }
   
   const transitions = usePageTransitions({
-    config: config.gentle,
     translateX: trasnlatePage,
     location,
   });

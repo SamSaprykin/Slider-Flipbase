@@ -31,7 +31,6 @@ const SecondPage: React.FunctionComponent<SecondPageProps> = ({
   }
   
   const transitions = usePageTransitions({
-    config: config.gentle,
     translateX: trasnlatePage,
     location,
   });
